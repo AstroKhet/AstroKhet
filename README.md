@@ -1,4 +1,4 @@
-my job is putting pixels on screens
+i put pixels on screens
 
 <!---
 AstroKhet/AstroKhet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
