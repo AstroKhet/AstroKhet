@@ -1,5 +1,4 @@
-Hello! Gao here. 
-I like making physics simulations because they look cool.
+my job is putting pixels on screens
 
 <!---
 AstroKhet/AstroKhet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
