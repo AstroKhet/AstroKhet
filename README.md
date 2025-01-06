@@ -1,4 +1,4 @@
-i put pixels on screens
+# Hello, I am Astrokhet! Welcome to my Github
 
 ---
 ## Programming Languages <span style="color: blue !important;"></span>
